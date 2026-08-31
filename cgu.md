@@ -2,7 +2,7 @@
 
 > **Brouillon de travail, pas un document validé juridiquement.** Les champs entre crochets `[À COMPLÉTER]` doivent être remplis avant publication. À faire relire par un professionnel avant mise en ligne, notamment la section « Boutique et monnaies virtuelles » lors de l'activation des achats réels (V2/V3).
 
-*Dernière mise à jour : [À COMPLÉTER — date de publication]*
+*Dernière mise à jour : 31 août 2026*
 
 ## 1. Objet
 

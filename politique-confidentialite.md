@@ -2,7 +2,7 @@
 
 > **Brouillon de travail, pas un document validé juridiquement.** Basé sur les données réellement collectées dans le code au 2026-08-28 (voir « Périmètre » ci-dessous). Les champs entre crochets `[À COMPLÉTER]` doivent être remplis avant publication. À faire relire par un professionnel avant mise en ligne, notamment les sections Responsable du traitement, Transferts hors UE et Mineurs.
 
-*Dernière mise à jour : [À COMPLÉTER — date de publication]*
+*Dernière mise à jour : 31 août 2026*
 
 ## 1. Qui sommes-nous
 
@@ -56,7 +56,7 @@ Conformément au RGPD, tu peux à tout moment :
 - Demander leur **suppression**
 - T'**opposer** à un traitement ou en demander la **limitation**
 
-Pour exercer ces droits : [À COMPLÉTER — contact, et/ou fonctionnalité in-app « Supprimer mon compte » une fois développée]. Tu peux aussi introduire une réclamation auprès de la CNIL (www.cnil.fr) si tu penses que tes droits ne sont pas respectés.
+Pour exercer ces droits : écris-nous à my.fridge.antiwaste@gmail.com, ou utilise directement le bouton « Supprimer mon compte » dans Paramètres → Compte pour la suppression. Tu peux aussi introduire une réclamation auprès de la CNIL (www.cnil.fr) si tu penses que tes droits ne sont pas respectés.
 
 ## 7. Sécurité
 

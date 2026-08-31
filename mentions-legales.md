@@ -18,7 +18,7 @@ Statut : Auto-entrepreneur / Micro-entrepreneur (France)
 
 - **Backend / base de données :** Supabase, hébergé en France (région du projet Supabase).
 - **Distribution de l'application :** Apple App Store (Apple Inc., One Apple Park Way, Cupertino, CA 95014, USA) et/ou Google Play Store (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA), selon la plateforme utilisée.
-- **Pages web publiques (politique de confidentialité, CGU) :** [À COMPLÉTER — nom d'hébergeur une fois le choix fait, ex. GitHub Pages, Vercel…]
+- **Pages web publiques (politique de confidentialité, CGU) :** GitHub Pages (GitHub Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA) — https://axelpaups.github.io/my-fridge-legal/
 
 ## Propriété intellectuelle
 
@@ -37,4 +37,4 @@ Conformément à l'article L.616-1 du Code de la consommation, en cas de litige 
 
 Les présentes mentions légales sont soumises au droit français. En cas de litige, et à défaut de résolution amiable, les tribunaux français seront seuls compétents.
 
-*Dernière mise à jour : [À COMPLÉTER — date de publication]*
+*Dernière mise à jour : 31 août 2026*
