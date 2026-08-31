@@ -18,7 +18,7 @@ MyFridge est une application de gestion de frigo anti-gaspillage : suivi des ali
 
 - L'utilisation de la plupart des fonctionnalités nécessite la création d'un compte (adresse e-mail + mot de passe, ou connexion via un fournisseur tiers le cas échéant).
 - Tu es responsable de la confidentialité de tes identifiants et de toute activité effectuée depuis ton compte.
-- Tu peux supprimer ton compte à tout moment depuis l'application [À COMPLÉTER une fois la fonctionnalité « Supprimer mon compte » développée — en attendant, en écrivant à my.fridge.antiwaste@gmail.com]. La suppression entraîne l'effacement de tes données conformément à la politique de confidentialité.
+- Tu peux supprimer ton compte à tout moment depuis l'application (Paramètres → Compte → « Supprimer mon compte »). La suppression est immédiate, irréversible, et entraîne l'effacement de tes données conformément à la politique de confidentialité.
 - La création d'un compte par un mineur de moins de 15 ans nécessite le consentement d'un titulaire de l'autorité parentale (voir Politique de confidentialité § 8).
 
 ## 4. Obligations de l'utilisateur
