@@ -8,7 +8,7 @@ MyFridge est éditée par :
 
 **Axel Paupier**, entrepreneur individuel (auto-entrepreneur)
 Adresse : 2 allée du moulin, 35740 Pacé
-SIRET : [À COMPLÉTER — en cours d'attribution, voir autoentrepreneur.urssaf.fr]
+SIRET : 109 301 820 00014
 Statut : Auto-entrepreneur / Micro-entrepreneur (France)
 
 **Directeur de la publication :** Axel Paupier
