@@ -26,11 +26,14 @@ Uniquement les données nécessaires au fonctionnement de l'application :
 | Progression des étapes de recette cochées | Reprendre une recette là où tu l'as laissée | Uniquement sur ton téléphone (stockage local) |
 | Autorisation caméra | Scanner les codes-barres (le flux vidéo n'est jamais enregistré ni transmis) | Traité localement sur ton téléphone |
 | Autorisation notifications | T'envoyer un rappel quotidien si des aliments périment bientôt | Notifications programmées localement sur ton téléphone, aucune donnée envoyée à un serveur pour ça actuellement |
+| Publicité (vidéos récompensées, facultatives) | Te proposer de gagner des Glaçons 🧊 supplémentaires en regardant une vidéo, à ta demande uniquement | Google AdMob — ton consentement (RGPD/UMP) est demandé au premier lancement si tu es concerné·e ; réglable à tout moment dans Paramètres → « Gérer mes préférences publicitaires » |
 | Données d'usage (écrans consultés, actions comme « produit ajouté », « recette terminée », « scan »), associées à ton e-mail si tu es connecté | Mesurer l'usage réel de l'app pour l'améliorer (quelles fonctionnalités sont utiles, où les gens bloquent) | PostHog (hébergé en Union européenne) |
 
-**Ce que nous ne collectons PAS (à date) :** pas de données de localisation, pas de données de paiement (gérées directement par Apple/Google), pas de suivi de plantage (Sentry — pas encore actif dans l'app), pas de publicité.
+**Statut publicité (Android) :** identifiants AdMob réels configurés (l'app utilise le vrai compte, pas des identifiants de test Google) ; iOS reste sur les identifiants de test le temps d'un lancement Android en premier. [À COMPLÉTER avant une éventuelle publication iOS : basculer sur de vrais identifiants iOS et revalider cette section avec un professionnel — identifiants publicitaires transmis à Google (hors UE) et déclaration correspondante dans la fiche App Store.]
 
-> Cette liste évoluera avec l'app (Sentry et de la publicité sont prévus dans la roadmap) — cette politique devra être mise à jour à ce moment-là, et un bandeau de consentement ajouté le cas échéant.
+**Ce que nous ne collectons PAS (à date) :** pas de données de localisation, pas de données de paiement (gérées directement par Apple/Google), pas de suivi de plantage (Sentry — pas encore actif dans l'app).
+
+> Cette liste évoluera avec l'app (Sentry est prévu dans la roadmap) — cette politique devra être mise à jour à ce moment-là.
 
 ## 3. Pourquoi on traite ces données (base légale RGPD)
 
@@ -42,9 +45,10 @@ Uniquement les données nécessaires au fonctionnement de l'application :
 
 - **Supabase** (hébergement, base de données, authentification) — sous-traitant technique, données hébergées en France (région du projet Supabase). Voir la politique de confidentialité et le DPA de Supabase : https://supabase.com/privacy
 - **Open Food Facts** — quand tu scannes un code-barres, ce code (pas de donnée personnelle) est envoyé à l'API publique Open Food Facts pour récupérer les informations du produit. Voir leur politique : https://world.openfoodfacts.org/privacy
+- **Google AdMob** — uniquement si tu choisis de regarder une vidéo publicitaire récompensée ; soumis à ton consentement RGPD/UMP. Voir la politique de Google : https://policies.google.com/privacy
 - **PostHog** (mesure d'usage) — sous-traitant technique, données hébergées en Union européenne. Voir leur politique : https://posthog.com/privacy
 - Nous ne vendons ni ne louons tes données à personne.
-- Tes données restent hébergées au sein de l'Union européenne (France) : à ce jour, aucun transfert hors UE.
+- Tes données restent hébergées au sein de l'Union européenne (France), à l'exception des données traitées par Google AdMob (transfert hors UE encadré par les clauses contractuelles types de Google) quand tu regardes une pub.
 
 ## 5. Combien de temps on les garde
 
