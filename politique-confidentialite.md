@@ -1,4 +1,4 @@
-# Politique de confidentialité — MyFridge
+# Politique de confidentialité — Procyo
 
 > **Brouillon de travail, pas un document validé juridiquement.** Basé sur les données réellement collectées dans le code au 2026-08-28 (voir « Périmètre » ci-dessous). Les champs entre crochets `[À COMPLÉTER]` doivent être remplis avant publication. À faire relire par un professionnel avant mise en ligne, notamment les sections Responsable du traitement, Transferts hors UE et Mineurs.
 
@@ -6,7 +6,7 @@
 
 ## 1. Qui sommes-nous
 
-MyFridge est une application mobile de gestion de frigo anti-gaspillage, éditée par Axel Paupier, auto-entrepreneur (SIRET 109 301 820 00014).
+Procyo (anciennement MyFridge, développeur Google Play : AMJ-Studios) est une application mobile de gestion de frigo anti-gaspillage, éditée par Axel Paupier, auto-entrepreneur (SIRET 109 301 820 00014).
 
 **Responsable du traitement :** Axel Paupier (auto-entrepreneur)
 **Contact pour toute question relative à vos données :** my.fridge.antiwaste@gmail.com
@@ -70,7 +70,7 @@ Tes données sont protégées par un système d'accès strict (Row Level Securit
 
 ## 8. Mineurs
 
-MyFridge est accessible à tout public. En France, la création d'un compte par un mineur de moins de 15 ans nécessite le consentement d'un titulaire de l'autorité parentale (article 8 du RGPD tel que transposé en droit français) ; ce seuil varie selon le pays de résidence au sein de l'Union européenne (de 13 à 16 ans).
+Procyo est accessible à tout public. En France, la création d'un compte par un mineur de moins de 15 ans nécessite le consentement d'un titulaire de l'autorité parentale (article 8 du RGPD tel que transposé en droit français) ; ce seuil varie selon le pays de résidence au sein de l'Union européenne (de 13 à 16 ans).
 
 [À COMPLÉTER avant la V2 boutique — le mécanisme de recueil de ce consentement parental n'est pas encore implémenté techniquement, et la boutique (achats réels, « boîte mystère ») nécessitera une vigilance renforcée pour les comptes mineurs : voir la note sur la réglementation des loot boxes évoquée précédemment.]
 

@@ -1,4 +1,6 @@
-# MyFridge — Documents légaux
+# Procyo (anciennement MyFridge) — Documents légaux
+
+Application Procyo – Frigo anti-gaspi, développeur Google Play : AMJ-Studios.
 
 - [Politique de confidentialité](politique-confidentialite.md)
 - [Conditions Générales d'Utilisation](cgu.md)

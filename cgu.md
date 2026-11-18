@@ -1,18 +1,20 @@
-# Conditions Générales d'Utilisation — MyFridge
+# Conditions Générales d'Utilisation — Procyo
 
 > **Brouillon de travail, pas un document validé juridiquement.** Les champs entre crochets `[À COMPLÉTER]` doivent être remplis avant publication. À faire relire par un professionnel avant mise en ligne, notamment la section « Boutique et monnaies virtuelles » lors de l'activation des achats réels (V2/V3).
 
-*Dernière mise à jour : 31 août 2026*
+*Dernière mise à jour : 27 septembre 2026*
 
 ## 1. Objet
 
-Les présentes Conditions Générales d'Utilisation (« CGU ») régissent l'utilisation de l'application mobile MyFridge (« l'Application »), éditée par Axel Paupier (voir Mentions légales). L'utilisation de l'Application implique l'acceptation pleine et entière des présentes CGU.
+Les présentes Conditions Générales d'Utilisation (« CGU ») régissent l'utilisation de l'application mobile Procyo (« l'Application »), éditée par Axel Paupier (voir Mentions légales). L'utilisation de l'Application implique l'acceptation pleine et entière des présentes CGU.
 
 ## 2. Description du service
 
-MyFridge est une application de gestion de frigo anti-gaspillage : suivi des aliments et de leurs dates de péremption, scan de codes-barres, suggestions de recettes, liste de courses, et fonctionnalités ludiques (points, personnalisation visuelle).
+Procyo est une application de gestion de frigo anti-gaspillage : suivi des aliments et de leurs dates de péremption, scan de codes-barres, suggestions de recettes, liste de courses, et fonctionnalités ludiques (points, personnalisation visuelle).
 
-À la date de publication de la présente version, MyFridge est proposée **gratuitement**, sans achat intégré actif. Certaines fonctionnalités additionnelles (boutique, cosmétiques) sont prévues dans une version future — voir § 7.
+À la date de publication de la présente version, Procyo est proposée **gratuitement**, sans achat intégré actif. Certaines fonctionnalités additionnelles (boutique, cosmétiques) sont prévues dans une version future — voir § 7.
+
+Après avoir terminé une recette, tu peux, **à ta seule initiative et de façon facultative**, regarder une courte vidéo publicitaire (fournie par Google AdMob) pour obtenir des Glaçons 🧊 supplémentaires. Cette fonctionnalité n'est jamais imposée et n'a aucune incidence sur le fonctionnement du reste de l'Application si tu ne l'utilises pas. Un plafond quotidien limite le nombre de vidéos visionnables. Le traitement des données associé (consentement RGPD/UMP, partage avec Google) est décrit dans la politique de confidentialité.
 
 ## 3. Création de compte
 
@@ -23,7 +25,7 @@ MyFridge est une application de gestion de frigo anti-gaspillage : suivi des ali
 
 ## 4. Obligations de l'utilisateur
 
-En utilisant MyFridge, tu t'engages à :
+En utilisant Procyo, tu t'engages à :
 - fournir des informations exactes lors de la création de ton compte ;
 - ne pas utiliser l'Application à des fins illicites ou frauduleuses ;
 - ne pas tenter de contourner les mesures de sécurité de l'Application ou d'accéder aux données d'autres utilisateurs ;
@@ -31,13 +33,13 @@ En utilisant MyFridge, tu t'engages à :
 
 ## 5. Contenu et responsabilité
 
-- Les dates de péremption suggérées par MyFridge (« Smart DLC ») sont calculées automatiquement à partir de catégories génériques (Open Food Facts) et fournies **à titre indicatif uniquement**. Elles ne remplacent en aucun cas ton propre jugement, les indications figurant sur l'emballage du produit, ni les règles de sécurité alimentaire. MyFridge ne saurait être tenue responsable en cas de consommation d'un produit périmé ou impropre à la consommation.
-- Les recettes suggérées sont fournies à titre d'inspiration ; MyFridge ne garantit pas leur adéquation à des régimes alimentaires spécifiques, allergies ou intolérances — vérifie toujours les ingrédients toi-même, notamment en cas d'allergie.
-- L'Application s'appuie sur des services tiers (Open Food Facts, Supabase) dont la disponibilité et l'exactitude des données ne sont pas garanties par MyFridge.
+- Les dates de péremption suggérées par Procyo (« Smart DLC ») sont calculées automatiquement à partir de catégories génériques (Open Food Facts) et fournies **à titre indicatif uniquement**. Elles ne remplacent en aucun cas ton propre jugement, les indications figurant sur l'emballage du produit, ni les règles de sécurité alimentaire. Procyo ne saurait être tenue responsable en cas de consommation d'un produit périmé ou impropre à la consommation.
+- Les recettes suggérées sont fournies à titre d'inspiration ; Procyo ne garantit pas leur adéquation à des régimes alimentaires spécifiques, allergies ou intolérances — vérifie toujours les ingrédients toi-même, notamment en cas d'allergie.
+- L'Application s'appuie sur des services tiers (Open Food Facts, Supabase) dont la disponibilité et l'exactitude des données ne sont pas garanties par Procyo.
 
 ## 6. Disponibilité et évolution du service
 
-- MyFridge fait de son mieux pour assurer un service disponible et continu, sans garantie d'absence d'interruption (maintenance, panne, cas de force majeure).
+- Procyo fait de son mieux pour assurer un service disponible et continu, sans garantie d'absence d'interruption (maintenance, panne, cas de force majeure).
 - Les fonctionnalités de l'Application peuvent évoluer (ajout, modification, suppression) à tout moment, notamment dans le cadre des mises à jour de version décrites publiquement.
 
 ## 7. Boutique et monnaies virtuelles
@@ -53,11 +55,11 @@ Voir Mentions légales § « Propriété intellectuelle ».
 ## 9. Résiliation
 
 - Tu peux cesser d'utiliser l'Application et supprimer ton compte à tout moment (§ 3).
-- MyFridge se réserve le droit de suspendre ou supprimer un compte en cas de manquement grave aux présentes CGU (notamment usage frauduleux ou atteinte à la sécurité de l'Application), après information de l'utilisateur lorsque cela est possible.
+- Procyo se réserve le droit de suspendre ou supprimer un compte en cas de manquement grave aux présentes CGU (notamment usage frauduleux ou atteinte à la sécurité de l'Application), après information de l'utilisateur lorsque cela est possible.
 
 ## 10. Modification des CGU
 
-Les présentes CGU peuvent être modifiées à tout moment, notamment pour refléter l'évolution des fonctionnalités de l'Application (voir § 7). Toute modification substantielle te sera signalée dans l'Application. La poursuite de l'utilisation de MyFridge après notification vaut acceptation des CGU modifiées.
+Les présentes CGU peuvent être modifiées à tout moment, notamment pour refléter l'évolution des fonctionnalités de l'Application (voir § 7). Toute modification substantielle te sera signalée dans l'Application. La poursuite de l'utilisation de Procyo après notification vaut acceptation des CGU modifiées.
 
 ## 11. Droit applicable et litiges
 

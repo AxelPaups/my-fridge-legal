@@ -1,14 +1,14 @@
-# Supprimer son compte MyFridge
+# Supprimer son compte Procyo
 
-*Application MyFridge (Android), éditée par Axel Paupier. Dernière mise à jour : 4 octobre 2026*
+*Application **Procyo – Frigo anti-gaspi** (anciennement MyFridge), sur Google Play : `com.myfridgeantiwaste.app`. Développeur sur Google Play : **AMJ-Studios**. Éditeur : Axel Paupier. Dernière mise à jour : 18 novembre 2026*
 
 ## Comment supprimer ton compte
 
 **Depuis l'application (immédiat) :**
 
-1. Ouvre MyFridge et connecte-toi.
+1. Ouvre Procyo et connecte-toi.
 2. Touche l'icône ⚙️ en haut à droite pour ouvrir les **Paramètres**.
-3. Dans la partie **Compte & sécurité → Compte**, touche **« Supprimer mon compte »**.
+3. Dans la partie **Compte & sécurité**, touche **« Supprimer mon compte »**.
 4. Confirme avec **« Supprimer définitivement »**.
 
 **Sans l'application :** écris à **my.fridge.antiwaste@gmail.com** depuis l'adresse e-mail de ton compte, avec pour objet « Suppression de compte ». La suppression est faite sous 30 jours au plus tard, et on te confirme par e-mail quand c'est fait.
@@ -39,9 +39,11 @@ Plus de détails dans la [politique de confidentialité](politique-confidentiali
 
 ---
 
-## Delete your MyFridge account (English)
+## Delete your Procyo account (English)
 
-**In the app (immediate):** open MyFridge → ⚙️ **Settings** → **Account & security → Account** → **"Delete my account"** → confirm **"Delete permanently"**.
+*App **Procyo** (formerly MyFridge) on Google Play, package `com.myfridgeantiwaste.app`, developer **AMJ-Studios**.*
+
+**In the app (immediate):** open Procyo → ⚙️ **Settings** → **Account & security** → **"Delete my account"** → confirm **"Delete permanently"**.
 
 **Without the app:** email **my.fridge.antiwaste@gmail.com** from your account's address with the subject "Account deletion". Done within 30 days, with an email confirmation.
 

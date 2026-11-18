@@ -1,10 +1,10 @@
-# Mentions légales — MyFridge
+# Mentions légales — Procyo
 
 > **Brouillon de travail, pas un document validé juridiquement.** Les champs entre crochets `[À COMPLÉTER]` doivent être remplis avant publication. À faire relire par un professionnel avant mise en ligne.
 
 ## Éditeur de l'application
 
-MyFridge est éditée par :
+Procyo (anciennement MyFridge, publiée sur Google Play sous le nom de développeur **AMJ-Studios**) est éditée par :
 
 **Axel Paupier**, entrepreneur individuel (auto-entrepreneur)
 Adresse : 2 allée du moulin, 35740 Pacé
@@ -22,7 +22,7 @@ Statut : Auto-entrepreneur / Micro-entrepreneur (France)
 
 ## Propriété intellectuelle
 
-L'ensemble des éléments constituant l'application MyFridge (textes, illustrations, logo, charte graphique, code source, à l'exception des contenus sous licence tierce explicitement mentionnés — voir § « Crédits ») est la propriété exclusive d'Axel Paupier, sauf mention contraire. Toute reproduction, représentation, modification ou exploitation, totale ou partielle, sans autorisation préalable, est interdite.
+L'ensemble des éléments constituant l'application Procyo (textes, illustrations, logo, charte graphique, code source, à l'exception des contenus sous licence tierce explicitement mentionnés — voir § « Crédits ») est la propriété exclusive d'Axel Paupier, sauf mention contraire. Toute reproduction, représentation, modification ou exploitation, totale ou partielle, sans autorisation préalable, est interdite.
 
 ## Crédits
 
@@ -31,7 +31,7 @@ L'ensemble des éléments constituant l'application MyFridge (textes, illustrati
 
 ## Médiation de la consommation
 
-Conformément à l'article L.616-1 du Code de la consommation, en cas de litige non résolu directement avec MyFridge, tu peux recourir gratuitement à un médiateur de la consommation. [À COMPLÉTER — coordonnées du médiateur retenu, obligatoire uniquement si des ventes/achats réels sont proposés dans l'app (boutique V2/V3) ; pas nécessaire tant que seule la version gratuite sans achat intégré est publiée].
+Conformément à l'article L.616-1 du Code de la consommation, en cas de litige non résolu directement avec Procyo, tu peux recourir gratuitement à un médiateur de la consommation. [À COMPLÉTER — coordonnées du médiateur retenu, obligatoire uniquement si des ventes/achats réels sont proposés dans l'app (boutique V2/V3) ; pas nécessaire tant que seule la version gratuite sans achat intégré est publiée].
 
 ## Droit applicable
 
